@@ -35,7 +35,7 @@ gank_tracker_min_distance = 500
 function OnLoad(core)
 core_ = core
 
---core_:UpdatePlugin("https://raw.githubusercontent.com/Jiingz/CarryBuddyAssemblies/main/Awareness.lua","Awareness.lua")
+ core_:UpdatePlugin("https://raw.githubusercontent.com/Jiingz/CarryBuddyAssemblies/main/Awareness.lua","Awareness.lua")
 end
 
 function OnPreOrbwalker()
